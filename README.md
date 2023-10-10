@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-⚡ I have a passion for creating captivating web experiences. With a strong foundation in HTML, CSS, and JavaScript, I thrive on turning design concepts into pixel-perfect, interactive interfaces. 🌟 My journey in web development is driven by the pursuit of innovation and excellence. I constantly seek new challenges and opportunities to expand my skill set and stay up-to-date with the latest web technologies. 🛠️ You'll find a collection of my projects here, showcasing my commitment to clean code, responsive design, and user-centric development. I believe that the best web applications are not just functional but also aesthetically pleasin 💡 Let's connect and collaborate! Whether it's sharing knowledge, working on exciting projects, or discussing the future of web development, I'm always eager to engage with fellow developers and enthusiasts. Feel free to reach out—I'm just a message away. 🚀 Together, we can build the web of tomorrow, one line of code at a time. Thanks for visiting my GitHub profile, and I look forward to connecting with you!
+⚡ I have a passion for creating captivating web experiences. With a strong foundation in HTML, CSS, and JavaScript, I thrive on turning design concepts into pixel-perfect, interactive interfaces. 
+🌟 My journey in web development is driven by the pursuit of innovation and excellence. I constantly seek new challenges and opportunities to expand my skill set and stay up-to-date with the latest web technologies. 
+🛠️ You'll find a collection of my projects here, showcasing my commitment to clean code, responsive design, and user-centric development. I believe that the best web applications are not just functional but also aesthetically pleasin 
+💡 Let's connect and collaborate! Whether it's sharing knowledge, working on exciting projects, or discussing the future of web development, I'm always eager to engage with fellow developers and enthusiasts. Feel free to reach out—I'm just a message away. 
+🚀 Together, we can build the web of tomorrow, one line of code at a time. Thanks for visiting my GitHub profile, and I look forward to connecting with you!
 
 *   🖥️  See my portfolio at [MyPortfolio](http://portfolio-q8fr.onrender.com/)
 *   ✉️  You can contact me at [bastek4090@gmail.com](mailto:bastek4090@gmail.com)
