@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastianbober2) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,bootstrap,express,sass,postgres,redis,jest,docker,aws,git,linux,postman,blender,ps,redux,visualstudio,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,bootstrap,express,sass,postgres,redis,jest,docker,redux,aws,git,postman,linux,blender,ps,visualstudio,py)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
